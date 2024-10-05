@@ -1,13 +1,13 @@
 {
   "依存关系":[
     {
-      "名称":"discern_rpc",
+      "名称":"discell_rpc",
       "类型":"少不更事",
       "参考":"主",
       "URL":"https://github.com/PsychPorting/linc_discord-rpc-0.6.3"
     },
     {
-      "名称":"扩展android工具",
+      "名称":"扩展安卓工具",
       "类型":"少不更事",
       "参考":"主要",
       "URL":"https://github.com/PsychPorting/extension-androidtools-0.6.3"
@@ -15,22 +15,22 @@
     {
       "名称":"flixel",
       "类型":"Haxelib",
-      "版本":"2.4.0"
+      "版本":无效的
     },
     {
       "名称":"FLixel-addons",
       "类型":"Haxelib",
-      "版本":"2.4.0"
+      "版本":无效的
     },
     {
       "名称":"flixel-ui",
       "类型":"Haxelib",
-      "版本":"2.4.0"
+      "版本":无效的
     },
     {
       "名称":"hscript",
       "类型":"Haxelib",
-      "版本":"2.4.0"
+      "版本":无效的
     },
     {
       "名称":"hxCodec",
@@ -41,7 +41,7 @@
     {
       "名称":"hxcpp",
       "类型":"Haxelib",
-      "版本":"2.4.0"
+      "版本":无效的
     },
     {
       "名称":"石灰",
@@ -58,7 +58,7 @@
     {
       "名称":"openfl",
       "类型":"Haxelib",
-      "版本":"2.4.0"
+      "版本":无效的
     }
   ]
 }
