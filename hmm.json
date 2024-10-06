@@ -1,64 +1,66 @@
 {
-  "dependencies": [
+  "依存关系":[
     {
-      "name": "discord_rpc",
-      "type": "git",
-      "ref": "master",
-      "url": "https://github.com/PsychPorting/linc_discord-rpc-0.6.3"
+      "名称":"discern_rpc",
+      "类型":"少不更事",
+      "参考":"主",
+      "URL":"https://github.com/Aidan63/linc_discord-rpc"
     },
     {
-      "name": "extension-androidtools",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/PsychPorting/extension-androidtools-0.6.3"
+      "名称":"linc_LuaJIT",
+      "类型":"少不更事",
+      "参考":"主要",
+      "URL":"https://github.com/beihu235/linc_luajit"
     },
     {
-      "name": "flixel",
-      "type": "haxelib",
-      "version": "4.11.0"
+      "名称":"扩展android工具",
+      "类型":"少不更事",
+      "参考":"主要",
+      "URL":"https://github.com/MAJigsaw77/extension-androidtools"
     },
     {
-      "name": "flixel-addons",
-      "type": "haxelib",
-      "version": "2.11.0"
+      "名称":"flixel",
+      "类型":"少不更事",
+      "参考":"dev",
+      "URL":"https://github.com/Prohack101010/flixel"
     },
     {
-      "name": "flixel-ui",
-      "type": "haxelib",
-      "version": "2.4.0"
+      "名称":"FLixel-addons",
+      "类型":"Haxelib",
+      "版本":"2.11.0"
     },
     {
-      "name": "hscript",
-      "type": "haxelib",
-      "version": "2.4.0"
+      "名称":"flixel-ui",
+      "类型":"Haxelib",
+      "版本":"2.4.0"
     },
     {
-      "name": "hxCodec",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/PsychPorting/hxCodec-0.6.3.git"
+      "名称":"hscript",
+      "类型":"Haxelib",
+      "版本":"2.4.0"
     },
     {
-      "name": "hxcpp",
-      "type": "haxelib",
-      "version": "4.2.1"
+      "名称":"hxCodec",
+      "类型":"Haxelib",
+      "版本":"2.5.1"
     },
     {
-      "name": "lime",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/PsychPorting/lime-0.6.3.git"
+      "名称":"hxcpp",
+      "类型":"少不更事",
+      "参考":"becf3f8bea42641c03b1924b40e5f5fc5dd255d1",
+      "URL":"https://github.com/mcagabe19-stuff/hxcpp.git"
     },
     {
-      "name": "linc_luajit",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/PsychPorting/linc_luajit-0.6.3.git"
+      "名称":"石灰",
+      "类型":"少不更事",
+      "目录":无效的,
+      "参考":"开发",
+      "URL":"https://github.com/mcagabe19-stuff/lime"
     },
     {
-      "name": "openfl",
-      "type": "haxelib",
-      "version": "9.1.0"
+      "名称":"openfl",
+      "类型":"Haxelib",
+      "版本":"9.1.0"
     }
   ]
 }
